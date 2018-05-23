@@ -18,6 +18,13 @@ public class Test {
     public static void main(String[] args) {
         dzielenie();
         wprowadzInt();
+        
+        Zad5.zapiszString("a1b2c3");
+        Zad5.odczytajString();
+        Zad5.zapiszInt(123);
+        Zad5.odczytajInt();
+        Zad5.zapiszDouble(1.12323532543643);
+        Zad5.odczytajDouble();
        
     }
 
